@@ -12,6 +12,6 @@ The projects are briefly described down below
   
   3) Coding a nummerical integrator for solving differential equations
 
-  4) Digesting DNA sequence with two restriction enzymes consequently
+  4) Digesting DNA sequence consequently with two restriction enzymes 
 
   5) A short self-made module with functions
