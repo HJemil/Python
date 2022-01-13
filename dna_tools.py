@@ -1,3 +1,4 @@
+# A function to count all nucleotides
 def get_counts(seq, base=3):
     counts = {}
     for i in range(0,len(seq),base):
@@ -8,6 +9,7 @@ def get_counts(seq, base=3):
             counts[slice ] = 1
     return counts
 
+# A function to translate codons into aminoacids
 def translate_dna(dna_seq): 
     bases = ["T","C","A","G"]
     codons = [a+b+c for a in bases for b in bases for c in bases]
