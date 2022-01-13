@@ -1,6 +1,7 @@
 # Python
-Python skills I have learnd so far displayed, which are displayed in little projects
-The projects are briefly described in this "README"
+Python skills I have learned so far.
+My skills are displayed in little projects I made during my Python course in my studies. 
+The projects are briefly described down below
 
  
   1) Fille handling - preparing a file with DNA sequences for the following mini-projects
