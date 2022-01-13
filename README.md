@@ -4,7 +4,7 @@ My skills are displayed in little projects I made during my Python course in my 
 The projects are briefly described down below
 
  
-  1) Fille handling - preparing a file with DNA sequences for the following mini-projects
+  1) Fille handling - preparing a file with DNA sequences 
   
   2a) Comparing the counts of nucelotides between two random DNA sequences
   
