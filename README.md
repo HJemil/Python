@@ -1,4 +1,4 @@
-# Python
+# Python skills
 Python skills I have learned so far.
 My skills are displayed in little projects I made during my Python course in my studies. 
 The projects are briefly described down below
