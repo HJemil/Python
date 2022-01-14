@@ -15,3 +15,5 @@ The projects are briefly described down below
   4) Digesting DNA sequence consequently with two restriction enzymes 
 
   5) A short self-made module with functions
+  
+  6) Extract useful genome data from a text file
